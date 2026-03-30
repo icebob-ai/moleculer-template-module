@@ -1,7 +1,6 @@
 ![Moleculer logo](http://moleculer.services/images/banner.png)
 
 [![CI](https://github.com/{{username}}/{{projectName}}/actions/workflows/ci.yml/badge.svg)](https://github.com/{{username}}/{{projectName}}/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/{{username}}/{{projectName}}/badge.svg?branch=master)](https://coveralls.io/github/{{username}}/{{projectName}}?branch=master)
 
 # {{projectName}} [![NPM version](https://img.shields.io/npm/v/{{projectName}}.svg)](https://www.npmjs.com/package/{{projectName}})
 
